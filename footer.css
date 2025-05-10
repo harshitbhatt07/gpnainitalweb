@@ -1,0 +1,33 @@
+footer {
+    background: linear-gradient(to right, #59585c, #27244b);
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    margin-top: 40px;
+}
+
+footer .socials {
+    margin-top: 10px;
+    
+}
+
+footer .socials a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #a4f6fc, #74e3ff);
+}
+
+header {
+    background: linear-gradient(to right, #27244b,  #59585c);
+   
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+}
